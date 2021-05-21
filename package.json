@@ -1,0 +1,22 @@
+{
+  "name": "first-nodejs",
+  "version": "1.0.0",
+  "description": "Demo for Lab1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evilasiojr/Web-Application-Dev.-Lab1.git"
+  },
+  "author": "Evilasio Junior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evilasiojr/Web-Application-Dev.-Lab1/issues"
+  },
+  "homepage": "https://github.com/evilasiojr/Web-Application-Dev.-Lab1#readme",
+  "devDependencies": {
+    "@types/node": "^15.6.0"
+  }
+}
